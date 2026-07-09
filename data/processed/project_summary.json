@@ -1,0 +1,11 @@
+{
+    "total_raw_records": 97929,
+    "total_cleaned_records": 97105,
+    "total_tech_records": 32438,
+    "total_skill_mentions": 241109,
+    "unique_skills": 18702,
+    "unique_cities": 428,
+    "unique_companies": 6482,
+    "salary_disclosure_rate_pct": 19.66,
+    "role_categories": 19
+}
