@@ -134,3 +134,45 @@ the structural experience bias in India's tech hiring market.
 ₹10.5 LPA) is the strongest North India option. Mohali 
 (FOI 49.6) offers the highest fresher-eligibility ratio (47%) 
 for Punjab-area candidates despite limited volume.
+
+## BLOCK D — Role Intelligence
+
+### D1: Software Engineer Dominates Volume But Data Analyst 
+### Offers Better Fresher Access
+Software Engineer accounts for 51.4% of all tech postings (16,676) 
+but offers only 22% fresher accessibility. Data Analyst, while 
+smaller in volume (380 postings), sits above the market average 
+at 26% fresher-eligible — making it a high-quality entry point 
+for analytically-focused freshers.
+
+IT Support / Sysadmin offers the highest practical fresher 
+accessibility at 46% (385 of 839 postings) — the strongest 
+combination of volume and entry-level ratio outside AI Trainer roles.
+
+### D2: Data Engineering Is Not a Fresher Entry Point
+Despite Data Engineer's strong salary premium (₹19.2 LPA), 
+only 10% of Data Engineer postings are fresher-eligible — 
+the second lowest accessibility rate after Technical Lead/Architect 
+(4%). Freshers targeting data careers should enter via Data Analyst 
+(26% accessible, ₹11 LPA) and transition to Data Engineering 
+after 2-3 years of experience.
+
+### D3: India's Tech Market Has No "High Demand + High Salary" Role
+The role demand vs salary bubble chart reveals a clear market 
+trade-off: high-volume roles (Software Engineer, QA) command 
+below-median salaries, while high-salary roles (Technical Lead, 
+Data Engineer) have limited posting volume. No role simultaneously 
+offers top-quartile demand AND top-quartile salary.
+
+**Optimal fresher career path implied by data:**
+Entry → Software Engineer/QA (volume, accessibility) → 
+Skill up to Data Engineering/DevOps (salary premium) → 
+Senior/Architect track (₹25 LPA ceiling)
+
+### D4: Python + CSS + SQL Is the Minimum Viable Fresher Skill Set
+Among 6,556 fresher-eligible tech postings, Python (13.2%), 
+CSS (10.6%), and SQL (7.6%) are the three most demanded skills. 
+Combined with JavaScript (7.5%), these four skills appear in 
+the majority of fresher-eligible postings across all role types — 
+making them the foundational investment for any fresh graduate 
+entering India's tech market.
