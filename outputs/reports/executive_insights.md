@@ -176,3 +176,75 @@ Combined with JavaScript (7.5%), these four skills appear in
 the majority of fresher-eligible postings across all role types — 
 making them the foundational investment for any fresh graduate 
 entering India's tech market.
+
+## BLOCK E — Company Intelligence
+
+### E1: Accenture Dominates India Tech Hiring — 
+### But Staffing Agencies Distort the Picture
+Accenture alone accounts for 17.6% of all tech postings (5,718) — 
+nearly 8x the next largest employer (IDESLABS, 763). However, 
+5 of the top 20 companies by volume are staffing/recruitment 
+aggregators (IDESLABS, Krazy Mantra HR, Purview Consulting, 
+PRADEEPIT Consulting, Talent21) posting on behalf of multiple 
+client companies, not direct employers.
+
+TCS — conventionally considered India's largest tech employer — 
+appears at rank 19 with only 142 postings, suggesting a 
+significant reduction in direct Naukri hiring activity during 
+the 2025-26 scrape period.
+
+### E2: Accenture Is India's Largest Fresher Employer by Volume
+With 1,088 fresher-eligible postings (19% of their listings), 
+Accenture is the single largest absolute source of fresher 
+tech opportunities in India. Google India shows a 53% fresher 
+eligibility ratio — among the highest of any major tech brand 
+in the dataset.
+
+Notably, Wipro (4.9% fresher ratio) and Infosys (6.1%) allocate 
+far fewer proportional postings to fresher candidates despite 
+their large overall hiring volumes — contradicting common 
+fresher advice to target these companies first.
+
+**Fresher targeting strategy implied by data:**
+Primary targets: Accenture (volume), IBM (volume + brand),
+Google (ratio + brand), JPMorgan Chase Bank (25% ratio + premium)
+Secondary: Capgemini, ABB, Conduent
+
+### E3: Company Rating Weakly Predicts Salary
+Higher-rated companies tend to offer above-median salaries, 
+but the relationship is weak — several high-rated companies 
+(ti Steps: 4.3 rating, ₹5 LPA) pay entry-level rates while 
+moderately-rated companies (Cloudxtreme: 2.5 rating, ₹17 LPA) 
+offer significant compensation. Freshers should not use 
+company rating as a proxy for salary potential.
+
+## BLOCK F — Statistical Analysis
+
+### F1: Skill Count Has No Linear Correlation With Salary
+Pearson r = 0.020 (p = 0.109, not significant). The number of 
+skill tags in a posting does not predict salary — partly because 
+Naukri's 8-skill cap creates insufficient variance for meaningful 
+correlation. A threshold effect exists: postings with only 1-2 
+skills pay ₹3.9 LPA vs ₹9-11 LPA for postings with 3+ skills.
+
+### F2: Hyderabad and Bengaluru Are Statistically Equivalent 
+### in Salary
+Despite Hyderabad's ₹0.25 LPA higher median, Mann-Whitney U 
+testing (p = 0.474) confirms no statistically significant salary 
+difference between the two cities. Both significantly outpay 
+Pune (p < 0.001). Freshers should choose between them based on 
+personal factors, not salary expectations.
+
+### F3: The 0-5 Year Experience Phase Delivers 373% Salary Growth
+Spearman ρ = 0.743 (p < 0.001) confirms a strong positive 
+experience-salary relationship. The fresher-to-5-year journey 
+(₹2.75 → ₹13 LPA) represents the steepest salary acceleration 
+in the entire career curve — validating front-loaded skill 
+investment in the first 3-5 years of a tech career.
+
+### F4: Machine Learning Is the Highest-ROI Fresher Skill
+Among freshers with disclosed salary, ML skills command a 
++143% premium (₹8.5 LPA vs ₹3.5 LPA median). Python (+57%, 
+₹5.5 LPA) and SQL (+57%, ₹5.5 LPA) offer the best combination 
+of premium and sample size reliability, making them the most 
+evidenced high-ROI skills for fresh graduates.
