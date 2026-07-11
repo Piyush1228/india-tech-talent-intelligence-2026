@@ -248,3 +248,44 @@ Among freshers with disclosed salary, ML skills command a
 ₹5.5 LPA) and SQL (+57%, ₹5.5 LPA) offer the best combination 
 of premium and sample size reliability, making them the most 
 evidenced high-ROI skills for fresh graduates.
+
+## BLOCK G — Advanced Analytics
+
+### G1: India's Tech Hiring Follows a Clear Weekday Rhythm
+Tech job posting volume drops 97% on weekends (Day 5: 157 posts 
+vs Day 4 peak: 5,712 posts). Interestingly, fresher-eligible 
+postings are proportionally higher on weekends (30% vs 18% 
+on peak weekdays) — suggesting smaller companies with fresher 
+roles post outside business hours while large enterprises 
+dominate weekday volume with experienced-role requirements.
+
+**Practical implication for job seekers:** Apply on Tuesday–
+Thursday for maximum new posting availability. Weekend browsing 
+surfaces a higher proportion of fresher-eligible roles relative 
+to total volume.
+
+### G2: Java, Spring Boot, and Microservices Form India's 
+### Tightest Skill Ecosystem
+Jaccard similarity analysis reveals Spring Boot + Microservices 
+(0.41) as the strongest skill pair in India's tech market — 
+appearing together in 41% of jobs where either is mentioned. 
+Java + Spring Boot (0.31) and Java + Microservices (0.24) 
+complete a tight Java backend trinity.
+
+Python + SQL (0.14) shows a weaker pairing due to Python's 
+cross-domain presence across data, DevOps, ML, and backend 
+roles — making it a versatile but ecosystem-diverse skill.
+
+### G3: Backend Developer Offers the Highest Career Salary 
+### Multiplier (9.8x)
+Despite the lowest fresher entry salary (₹2.0 LPA), Backend 
+Developer roles offer a 9.8x salary growth ceiling (₹19.6 LPA 
+senior median) — the highest multiplier of any role category. 
+Data Analyst (3.5x, ₹5→₹17.5 LPA) offers the best combination 
+of accessible entry salary and above-median growth for 
+analytically-focused freshers.
+
+IT Support/Sysadmin, despite 46% fresher accessibility, 
+carries a ₹7.5 LPA senior ceiling — the lowest career ceiling 
+of any role category. High entry accessibility does not 
+guarantee long-term compensation growth.
