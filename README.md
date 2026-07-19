@@ -145,7 +145,7 @@ india-tech-talent-intelligence-2026/
 ### Prerequisites
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/india-tech-talent-intelligence-2026.git
+git clone https://github.com/Piyush1228/india-tech-talent-intelligence-2026.git
 cd india-tech-talent-intelligence-2026
 
 # Create and activate conda environment
