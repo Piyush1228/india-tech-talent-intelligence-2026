@@ -1,4 +1,4 @@
-# 🇮🇳 India Tech Talent Intelligence Platform 2026
+# India Tech Talent Intelligence Platform 2026
 
 > A professional-grade data analytics project analyzing 
 > **32,438 tech job postings** from India's largest job portal 
